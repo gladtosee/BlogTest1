@@ -1,4 +1,6 @@
 ---
+layout: post
+title: 통계공부 정리
 published: true
 ---
 
